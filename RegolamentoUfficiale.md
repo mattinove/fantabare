@@ -9,6 +9,7 @@
   <li>Altri strumenti</li>
   <li>Punteggi</li>
   <li>Scarto fascia</li>
+  <li>Altri strumenti</li>
   <li>Sospensione e rinvio partite</li>
   <li>Formazione</li>
   <li>Voti</li>
@@ -125,11 +126,6 @@ I bonus e i malus che seguono sono parametri di default che possono e devono ess
 </table>
 </p>
 <br />
-<h1>Altri strumenti</h1>
-<p>
-Di default non saranno in uso ulteriori strumenti per assegnare bonus/malus durante lo svolgimento delle partite di lega. Tuttavia è dovere del presidente domandare ai presidenti se intendono fare uso di tali strumenti, egli quindi dovrà indurre una votazione in merito (es. modificatori, fattore campo etc..).
-</p>
-<br />
 <h1>Punteggi</h1>
 <p>
 La tabella di conversione in gol dei punteggi ottenuti dalla somma di voti e bonus/malus è storicamente la seguente:
@@ -141,7 +137,12 @@ E così via. (ogni 6 punti un gol)
 <br />
 <h1>Scarto fascia</h1>
 <p>
-Scarto stessa fascia e Scarto fasce diverse sono regole che di default non sono attive nella lega. Sarà dovere del presidente di lega chiedere ai partecipanti se intendono fare uso di tali regole attraverso una votazione.
+La regola dello scarto fascia (stessa/diversa) di default non è attiva nella lega. Sarà dovere del presidente di lega chiedere agli altri presidenti se intendono fare uso di tali regole attraverso una votazione.
+</p>
+<br />
+<h1>Altri strumenti</h1>
+<p>
+Di default non saranno in uso ulteriori strumenti per assegnare bonus/malus durante lo svolgimento delle partite di lega. Tuttavia è dovere del presidente domandare ai presidenti se intendono fare uso di tali strumenti, egli quindi dovrà indurre una votazione in merito (es. modificatori, fattore campo etc..).
 </p>
 <br />
 <h1>Rinvio partite</h1>
