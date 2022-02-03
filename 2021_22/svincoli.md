@@ -68,7 +68,7 @@
 </ul>
 
 <h2>404 - Nico / Alessio</h2>
-<h4>Totale 111</h4>
+<h4>Totale: 111</h4>
 <ul>
   <li>Alex Sandro 7</li>
   <li>-</li>
@@ -79,7 +79,7 @@
 </ul>
 
 <h2>Real Scampia - Tano</h2>
-<h4>220</h4>
+<h4>Totale: 220</h4>
 <ul>
   <li>Sirigu 10</li>
   <li>Godin 4</li>
@@ -90,7 +90,7 @@
 </ul>
 
 <h2>Beverly INPS - Zamo / Stasio</h2>
-<h4>Totale 172</h4>
+<h4>Totale: 172</h4>
 <ul>
   <li>belec 1</li>
   <li>samir 11</li>
@@ -103,7 +103,7 @@
 </ul>
 
 <h2> Atletico Acilia - Lollo / Melchiot</h2>
-<h1>Totale: 101</h1>
+<h4>Totale: 101</h4>
 <ul>
   <li></li>
   <li></li>
