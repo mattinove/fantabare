@@ -60,13 +60,13 @@
 </ul>
 
 <h2>404 - Nico / Alessio</h2>
-<h4>Totale: 1</h4>
+<h4>Totale: 0</h4>
 <ul>
   <li>ikone 100</li>
   <li>mazzocchi 1</li>
   <li>nsame 1</li>
   <li>perotti 1</li>
-  <li>Sansone 1</li>
+  <li>pellegri 1</li>
 </ul>
 
 <h2>Real Scampia - Tano</h2>
