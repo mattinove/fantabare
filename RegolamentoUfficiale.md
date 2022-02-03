@@ -141,12 +141,21 @@ E così via. (ogni 6 punti un gol)
 <br />
 <h1>Scarto fascia</h1>
 <p>
-Scarto stessa fascia e Scarto fasce diverse s ono regole che di default non sono attive nella lega. Sarà dovere del presidente di lega chiedere ai partecipanti se intendono fare uso di tali regole attraverso una votazione.
-Rinvio partite
+Scarto stessa fascia e Scarto fasce diverse sono regole che di default non sono attive nella lega. Sarà dovere del presidente di lega chiedere ai partecipanti se intendono fare uso di tali regole attraverso una votazione.
+</p>
+<br />
+<h1>Rinvio partite</h1>
+<p>
 Per quanto riguarda il rinvio partite la regola è che fino a un massimo di 3 partite si assegna il 6 politico a tutti i giocatori (portieri compresi). Nel caso le partite fossero più di 3 allora si aspetteranno i rinvii lasciando in sospeso la giornata. In questo caso non sono previsti cambi di formazione o modulo. Nel caso il campionato fosse sospeso a causa del Covid-19 il regolamento prevede che la lega Fantabare seguirà in maniera speculare le decisioni prese per la Serie A.
-Formazione
+</p>
+<br/>
+<h1>Formazione</h1>
+<p>
 La formazione dovrà essere comunicata o entro l'inizio della prima partita in programma nella giornata, entro 5 minuti dall’inizio della giornata. Nel caso in cui la formazione non venga inserita prima del termine stabilito, diverrà attiva la formazione schierata nella giornata precedente se è la prima volta, nel caso non fosse la prima volta che il giocatore sia venuto meno all’inserimento della formazione allora collezionerà 0 punti nella partita che comunque verrà disputata. In panchina devono essere presenti fino ad un massimo di 7 giocatori. Le massime sostituzioni consentite sono 3 (a modulo fisso). Tuttavia il numero delle riserve e i massimi cambi dovranno essere confermati o cambiati in sede d’asta. Nel caso ci fossero problemi con il sito o in presenza di cause di forza maggiore che impediscano l’inserimento della formazione, verificate tali condizioni, la formazione dovrà essere comunicata sul gruppo di Whatsapp sempre fino a 10 minuti prima dell’inizio del primo incontro di giornata. Il presidente che non schiererà la formazione per più di 2 volte, sarà costretto a pagare una multa pari a euro cinque (5€) come specificato nella sezione Penalità.
-Voti
+</p>
+<br />
+<h1>Voti</h1>
+<p>
 Per quanto riguarda i voti, in linea di principio verrà utilizzata la media tra i voti del corriere e della gazzetta. Nel caso la piattaforma utilizzata per la gestione della lega sia Fantagazzetta allora i voti di riferimento saranno i voti ufficiali di fantagazzetta. Sarà dovere del presidente indurre una votazione in sede d’asta sulla fonte di assegnazione degli assist, che di default sarà quella di fantagazzetta.
 </p>
 <br />
