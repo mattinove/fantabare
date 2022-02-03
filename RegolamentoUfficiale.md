@@ -137,12 +137,17 @@ E così via. (ogni 6 punti un gol)
 <br />
 <h1>Scarto fascia</h1>
 <p>
-La regola dello scarto fascia (stessa/diversa) di default non è attiva nella lega. Sarà dovere del presidente di lega chiedere agli altri presidenti se intendono fare uso di tali regole attraverso una votazione.
+E attivo lo scarto stessa fascia fissato al valore di 5.5 punti (es. 72 a 77.5 finisce 2-3)
+E arrivo lo scarto fascie diverse fissato al valore di 0.5 punti (es. 65.5 a 66 finisce 1-1).
 </p>
 <br />
 <h1>Altri strumenti</h1>
 <p>
-Di default non saranno in uso ulteriori strumenti per assegnare bonus/malus durante lo svolgimento delle partite di lega. Tuttavia è dovere del presidente domandare ai presidenti se intendono fare uso di tali strumenti, egli quindi dovrà indurre una votazione in merito (es. modificatori, fattore campo etc..).
+<h3>Modificatore difesa</h3>
+E attivo il modificatore difesa, solo per chi schiera da 4 difensori minimo, con i seguenti valori.
+Media del <b>6</b> (portiere + 3 difensori), la squadra riceve <b>+ 1</b>.
+Media del <b>6.5</b> (portiere + 3 difensori), la squadra riceve <b>+ 3</b>.
+Media del <b>7</b> in su (portiere + 3 difensori), la squadra riceve <b>+ 5</b>.
 </p>
 <br />
 <h1>Rinvio partite</h1>
@@ -152,7 +157,8 @@ Per quanto riguarda il rinvio partite la regola è che fino a un massimo di 3 pa
 <br/>
 <h1>Formazione</h1>
 <p>
-La formazione dovrà essere comunicata o entro l'inizio della prima partita in programma nella giornata, entro 5 minuti dall’inizio della giornata. Nel caso in cui la formazione non venga inserita prima del termine stabilito, diverrà attiva la formazione schierata nella giornata precedente se è la prima volta, nel caso non fosse la prima volta che il giocatore sia venuto meno all’inserimento della formazione allora collezionerà 0 punti nella partita che comunque verrà disputata. In panchina devono essere presenti fino ad un massimo di 7 giocatori. Le massime sostituzioni consentite sono 3 (a modulo fisso). Tuttavia il numero delle riserve e i massimi cambi dovranno essere confermati o cambiati in sede d’asta. Nel caso ci fossero problemi con il sito o in presenza di cause di forza maggiore che impediscano l’inserimento della formazione, verificate tali condizioni, la formazione dovrà essere comunicata sul gruppo di Whatsapp sempre fino a 10 minuti prima dell’inizio del primo incontro di giornata. Il presidente che non schiererà la formazione per più di 2 volte, sarà costretto a pagare una multa pari a euro cinque (5€) come specificato nella sezione Penalità.
+La formazione dovrà essere comunicata o entro l'inizio della prima partita in programma nella giornata, entro 5 minuti dall’inizio della giornata. Nel caso in cui la formazione non venga inserita prima del termine stabilito, diverrà attiva la formazione schierata nella giornata precedente se è la prima volta, nel caso non fosse la prima volta che il giocatore sia venuto meno all’inserimento della formazione allora collezionerà 0 punti nella partita che comunque verrà disputata. A causa della pandemia, e delle conseguenti posititvità improvvise dei giocatori, è consentito portare tutti i giocatori della rosa in panchina e il numero di sostituzioni massimo consentito passa da 3 a 5. 
+Nel caso ci fossero problemi con il sito o in presenza di cause di forza maggiore che impediscano l’inserimento della formazione, verificate tali condizioni, la formazione dovrà essere comunicata sul gruppo di Whatsapp sempre fino a 5 minuti prima dell’inizio del primo incontro di giornata.
 </p>
 <br />
 <h1>Voti</h1>
@@ -169,16 +175,15 @@ Il Fantamercato è aperto dal giorno dell’asta fino alla mezzanotte del giorno
 Il Fantamercato aprirà in concomitanza con la sessione di calciomercato invernale. In tale periodo sarà indetta una nuova asta (di riparazione) e il fantamercato rimarrà aperto fino alla fine della finestra di mercato invernale. Durante tale sessione sarà assegnato ad ogni squadra un bonus di 100 crediti, scambiabili, da usare per il mercato di gennaio.
 </p>
 <br />
-<h1>Regola ‘under’</h1>
+<h1>Regola ‘under’ (nati nel 2000)</h1>
 <p>
-Secondo la regola ‘under’ il presidente che acquista in sede d’asta un giocatore facente parte della categoria under allora questi avrà il diritto di prelazione su quest’ultimo all’asta del successivo fantacalcio. Nel caso in cui il presidente in questione non partecipi all’edizione successiva della Fantalega allora la prelazione sarà ereditata dalla squadra subentrante. Qualora non vi sia nessuna squadra subentrante o verrà creata una nuova squadra mescolando i componenti dell’attuale lega allora non sarà possibile riscattare gli under che verranno assegnati normalmente durante l’asta. Tale regola è in vigore solo se l’acquisto del giocatore viene fatto durante l’asta di apertura escludendo quindi tutti gli under acquistati a gennaio.
+Secondo la regola ‘under’ il presidente che acquista in sede d’asta (iniziale) un giocatore facente parte della categoria under avrà il diritto di prelazione su di esso all’asta del successivo fantacalcio. Nel caso in cui il presidente in questione non partecipi all’edizione successiva della Fantalega allora la prelazione sarà ereditata dalla squadra subentrante. Qualora non vi sia nessuna squadra subentrante o verrà creata una nuova squadra mescolando i componenti dell’attuale lega allora non sarà possibile riscattare gli under che verranno assegnati normalmente durante l’asta. Tale regola è in vigore solo se l’acquisto del giocatore viene fatto durante l’asta di apertura escludendo quindi tutti gli under acquistati a gennaio.
 Si ricorda che inoltre i giocatori riscattati dovranno essere dichiarati prima dell’inizio dell’asta di apertura e sarà responsabilità del presidente di lega renderli ufficiali in un apposito documento stipulato in sede d’asta.
 </p>
 <br />
 <h1>Scambi</h1>
 <p>
 Nella suddetta lega è consentito ai presidenti, durante le finestre di mercato, scambiare giocatori. Tale scambio affinché sia valido deve avvenire secondo un iter preciso ed è il seguente:
-
 <ol>
   <li>
   Lo scambio viene comunicato attraverso il canale di comunicazione indicato da uno dei presidenti coinvolti in modo che tutti siano al corrente del suddetto.
