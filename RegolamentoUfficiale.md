@@ -17,7 +17,7 @@
   <li>Scambi</li>
   <li>Svincoli</li>
   <li>Votazioni</li>
-  <li>Penalità</li>
+  <li>Modifiche e revisioni</li>
 </ul>
 <br />
 <h1>Premessa</h1>
@@ -51,7 +51,7 @@ Per evitare qualsiasi tipo di ripercussione dovuta alla posizione in classifica 
 <p>
 I bonus e i malus che seguono sono parametri di default che possono e devono essere discussi e approvati in sede d’asta, ogni variazione a questi bonus e malus sarà deciso con una votazione a maggioranza alla quale parteciperanno, come di consueto, solo i presidenti.
 
-<table style="width: 100%;">
+<table>
   <tr>
     <th>Tipologia di evento</th>
     <th>Bonus</th>
