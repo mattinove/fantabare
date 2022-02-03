@@ -15,11 +15,9 @@
 <h4>Totale: 4</h4>
 <ul>
   <li>Ghoulam 1</li>
-  <li>-</li>
   <li>Vignato 1</li>
   <li>Strootman 1</li>
   <li>Piccoli 1</li>
-  <li>-</li>
 </ul>
 
 <h2>Bate Boris RF - Mets / Nicco</h2>
@@ -29,7 +27,6 @@
   <li>Styger Larsen 3</li>
   <li>Pulgar 11</li>
   <li>Hernani 2</li>
-  <li></li>
   <li>Cutrone 2</li>
 </ul>
 
@@ -40,16 +37,13 @@
   <li>Biraschi 1</li>
   <li>Vendheusend 1</li>
   <li>Vidal 2</li>
-  <li></li>
   <li>Pussetto 1</li>
-  <li></li>
 </ul>
 
 <h2>Tr7 - Ricky</h2>
 <h4>Totale: 237</h4>
 <ul>
   <li>Caceres 1</li>
-  <li></li>
   <li>Leiva 1</li>
   <li>Chiesa 90</li>
   <li>Kean 13</li>
@@ -59,10 +53,8 @@
 <h2>LSS - Bomber Lupi</h2>
 <h4>Totale: 192</h4>
 <ul>
-  <li></li>
   <li>Nastasic 1</li>
   <li>Villar 1</li>
-  <li></li>
   <li>Simy 9 (estero)</li>
   <li>Mancuso 8 (serie b)</li>
 </ul>
@@ -71,7 +63,6 @@
 <h4>Totale: 111</h4>
 <ul>
   <li>Alex Sandro 7</li>
-  <li>-</li>
   <li>Ramsey 1</li>
   <li>Linetty 1</li>
   <li>Pellegri 1</li>
@@ -99,16 +90,10 @@
   <li>kulusevski 3</li>
   <li>damsgaard 12</li>
   <li>Lozano 23</li>
-  <li></li>
 </ul>
 
-<h2> Atletico Acilia - Lollo / Melchiot</h2>
+<h2>Atletico Acilia - Lollo / Melchiot</h2>
 <h4>Totale: 101</h4>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
   <li>Carles Perez 1</li>
-  <li></li>
 </ul>
