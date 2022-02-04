@@ -47,7 +47,7 @@
   <li>pinamonti 93</li>
   <li>bernardeschi 1</li>
   <li>stojanovic 1</li>
-  <li>verdi 1</li>
+  <li>krunic 1</li>
 </ul>
 
 <h2>LSS - Bomber Lupi</h2>
